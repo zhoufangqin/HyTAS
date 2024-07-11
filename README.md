@@ -1,7 +1,5 @@
 # HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis (ECCV 2024)
 
-
-## Pipeline
 ![Image](diagram.png)
 
 ## Installation
