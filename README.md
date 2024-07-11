@@ -24,6 +24,6 @@ For visualizing results, see analysis.ipynb
 If you have any questions, please contact zhoufangqin123@gmail.com
 
 ## Acknowledgement
-The implementation is built upon [TF_TAS](https://github.com/decemberzhou/TF_TAS.git)
+The implementation is built upon [TF_TAS](https://github.com/decemberzhou/TF_TAS.git) <br>
 Thanks for their great work!
 
