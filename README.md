@@ -2,6 +2,7 @@
 
 
 ## Pipeline
+![Image](diagram.pdf)
 
 
 ### To run the search scripts, specify a search proxy in the search_xx.sh, then run with bash
