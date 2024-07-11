@@ -1,0 +1,16 @@
+2000 nets
+snip: 0.12h
+grad_norm: 0.12h
+grasp: 0.26h
+dss: 0.17h
+synflow: 0.12h
+jacob_cov: 0.12h
+fisher: 0.20h
+snip_grad_norm: 0.12h
+zico: 0.84h
+zico_modified: 0.88h
+zico_act:0.14h
+
+zico_modified_w_decat: 0.26h
+NASWOT: 014h
+croze: 0.38h
