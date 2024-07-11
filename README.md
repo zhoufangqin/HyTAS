@@ -1,4 +1,8 @@
-# HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis
+# HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis (ECCV 2024)
+
+
+## Pipeline
+
 
 ### To run the search scripts, specify a search proxy in the search_xx.sh, then run with bash
 ### As an exmple below:
